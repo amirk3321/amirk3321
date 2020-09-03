@@ -10,7 +10,7 @@
 - 🤔 I’m looking for help with Deaf Keybord.
 - 💬 Ask me about Android, Flutter or any tech related Stuff.
 - 📫 How to reach me: LinkedIn : [@AmirKhan](https://www.linkedin.com/in/amir-khan-119542b3)
-Youtube : [@CodingInFun](https://www.youtube.com/channel/UCO6gMNHYhRqyzbskNh4gG_A)
+Youtube : [@eTechViral](https://www.youtube.com/channel/UCO6gMNHYhRqyzbskNh4gG_A)
 Twitter  : [@AmirKhan](https://twitter.com/__Meer___)
 .
 - 😄 Pronouns: He/His.
