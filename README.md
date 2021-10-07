@@ -28,7 +28,6 @@
 - 🔭 I’m currently working on open source projects.
 - 🌱 I’m currently learning BlockChain, Machine Learning...
 - 👯 I’m looking to collaborate on Youtube.
-- 🤔 I’m looking for help with Deaf Keybord.
 - 💬 Ask me about Android, Flutter or any tech related Stuff.
 - 📫 How to reach me: LinkedIn : [@AmirKhan](https://www.linkedin.com/in/amir-khan-119542b3)
 Youtube : [@eTechViral](https://www.youtube.com/channel/UCO6gMNHYhRqyzbskNh4gG_A)
