@@ -1,7 +1,7 @@
 ### Hello There, I'm Amir Khan! 👋
 
 
-<a href="https://twitter.com/__Meer___">
+<a href="https://twitter.com/__amir_khan_">
   <img align="left" alt="AK's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 <a href="https://www.linkedin.com/in/amir-khan-119542b3">
@@ -31,13 +31,13 @@
 - 💬 Ask me about Android, Flutter or any tech related Stuff.
 - 📫 How to reach me: LinkedIn : [@AmirKhan](https://www.linkedin.com/in/amir-khan-119542b3)
 Youtube : [@eTechViral](https://www.youtube.com/channel/UCO6gMNHYhRqyzbskNh4gG_A)
-Twitter  : [@AmirKhan](https://twitter.com/__Meer___)
+Twitter  : [@AmirKhan](https://twitter.com/__amir_khan_)
 .
 - 😄 Pronouns: He/His.
 - ⚡ Fun fact: When i do code and while coding i sing song when i watch time so it is 6-AM then i tell my self that now i should sleep because its night.
 
 
-[![Twitter: Amir Khan](https://img.shields.io/twitter/follow/__Meer___?style=social)](https://twitter.com/__Meer___)
+[![Twitter: Amir Khan](https://img.shields.io/twitter/follow/__amir_khan_?style=social)](https://twitter.com/__amir_khan_)
 [![Linkedin: Amir Khan](https://img.shields.io/badge/-AK-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/amir-khan-119542b3)](https://www.linkedin.com/in/amir-khan-119542b3)
 
 
