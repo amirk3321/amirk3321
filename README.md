@@ -37,8 +37,8 @@ Twitter  : [@M.Amir](https://twitter.com/__muhammad_amir)
 - ⚡ Fun fact: When i do code and while coding i sing song when i watch time so it is 6-AM then i tell my self that now i should sleep because its night.
 
 
-[![Twitter: Amir Khan](https://img.shields.io/twitter/follow/__amir_khan_?style=social)](https://twitter.com/__amir_khan_)
-[![Linkedin: Amir Khan](https://img.shields.io/badge/-AK-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/amir-khan-119542b3)](https://www.linkedin.com/in/amir-khan-119542b3)
+[![Twitter: M.Amir](https://img.shields.io/twitter/follow/__muhammad_amir?style=social)](https://twitter.com/__muhammad_amir)
+[![Linkedin: M.Amir](https://img.shields.io/badge/-AK-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/muhammad-amir-119542b3)](https://www.linkedin.com/in/muhammad-amir-119542b3)
 
 
 
