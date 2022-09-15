@@ -1,23 +1,23 @@
-### Hello There, I'm Amir Khan! 👋
+### Hello There, I'm Muhammad Amir! 👋
 
 
 <a href="https://twitter.com/__amir_khan_">
   <img align="left" alt="AK's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 <a href="https://www.linkedin.com/in/amir-khan-119542b3">
-  <img align="left" alt="AK's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="left" alt="M.A's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://github.com/amirk3321">
-  <img align="left" alt="AK's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+  <img align="left" alt="M.A's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
 <a href="https://www.instagram.com/amir.k_h_a_n/">
-  <img align="left" alt="AK's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+  <img align="left" alt="M.A's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 <a href="https://web.facebook.com/Amir.dhcs/">
-  <img align="left" alt="AK's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
+  <img align="left" alt="M.A's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
 <a href="https://www.youtube.com/etechviral/">
-  <img align="left" alt="AK's Youtube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
+  <img align="left" alt="M.A's Youtube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
 </a>
 
 <br/>
@@ -29,9 +29,9 @@
 - 🌱 I’m currently learning BlockChain, Machine Learning...
 - 👯 I’m looking to collaborate on Youtube.
 - 💬 Ask me about Android, Flutter or any tech related Stuff.
-- 📫 How to reach me: LinkedIn : [@AmirKhan](https://www.linkedin.com/in/amir-khan-119542b3)
+- 📫 How to reach me: LinkedIn : [@M.AMIR](https://www.linkedin.com/in/muhammad-amir-119542b3)
 Youtube : [@eTechViral](https://www.youtube.com/channel/UCO6gMNHYhRqyzbskNh4gG_A)
-Twitter  : [@AmirKhan](https://twitter.com/__amir_khan_)
+Twitter  : [@M.Amir](https://twitter.com/__muhammad_amir)
 .
 - 😄 Pronouns: He/His.
 - ⚡ Fun fact: When i do code and while coding i sing song when i watch time so it is 6-AM then i tell my self that now i should sleep because its night.
